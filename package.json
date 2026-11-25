@@ -1,16 +1,8 @@
 {
-  "name": "news-image-submission",
+  "name": "news-image-20261125",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "sharp": "^0.35.5"
-  }
+  "description": "Sum up 25 November 2026 world news in one image",
+  "type": "module",
+  "main": "main.ts",
+  "license": "MIT"
 }
